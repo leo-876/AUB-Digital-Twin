@@ -1,3 +1,4 @@
-﻿# IoT-Assisted Digital Twin: Building Administration, Control, & Monitoring Solution
+﻿# Capstone Graduation Project
 
 ![Poster](Poster.png)
+
